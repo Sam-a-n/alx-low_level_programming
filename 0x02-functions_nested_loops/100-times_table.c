@@ -22,9 +22,6 @@ _putchar(' ');
 z = x * y;
 if (z <= 99)
 	_putchar(' ');
-if (z <= 9)
-	_putchar(z <= 9);
-		_putchar(' ');
 if (z >= 100)
 {
 	_putchar((z / 100) + '0');
