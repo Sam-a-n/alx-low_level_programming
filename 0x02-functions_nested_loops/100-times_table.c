@@ -2,7 +2,7 @@
 
 /**
  * print_times_table - prints the n times table
- * starting with 0
+ * starting with 0.
  * @n: the value of times table
  */
 
@@ -20,10 +20,6 @@ void print_times_table(int n)
 				_putchar(',');
 				_putchar(' ');
 				z = x * y;
-				if (y == 0)
-				{
-					_putchar(z + '0');
-				}
 				if (z <= 99)
 					_putchar(' ');
 				if (z <= 9)
