@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	int pass;
+	int pass[100];
 	int i, n, sum;
 
 	sum = 0;
