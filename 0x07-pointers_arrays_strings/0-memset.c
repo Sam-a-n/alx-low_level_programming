@@ -2,7 +2,7 @@
 
 /**
  * _memset - fills memory with a constant byte.
- * @s: starting address
+ * @s: the starting address
  * @b: desired value
  * @n: number of bytes to be changed
  *
